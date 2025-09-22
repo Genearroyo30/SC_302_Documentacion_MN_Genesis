@@ -1,1 +1,4 @@
-# SC_302_Documentacion_MN_Genesis
+SC\_302\_Documentacion\_MN\_Genesis
+Esta es mi primera práctica con GitHub
+===
+
